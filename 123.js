@@ -1,0 +1,2 @@
+//<![CDATA[ jQuery(document).ready(function(a){a("#facebook_messenger_custom").a(function(){a(".nj-facebook_messenger").c("hidden")});a(".facebook_messenger_backgroud_default").click(function(){a(".wp-color-result").b("background-color","#0075ff");a("#facebook_messenger_backgroud").f("#0075ff");return!1})})
+//]]>
