@@ -74,6 +74,6 @@
 
 /* preloading images */
 .owl-item .loading{
-	min-height: 50px;
-	background: url(https://4.bp.blogspot.com/-e_9K-3D8juA/WguWAP0DOCI/AAAAAAAADQQ/GEx-PjETgOMzBUdNCfaMl-HLfBi4tkOHwCEwYBhgL/s1600/AjaxLoader.gif) no-repeat center center
+	min-height: 150px;
+	background: url(https://lh4.googleusercontent.com/-e_9K-3D8juA/WguWAP0DOCI/AAAAAAAADQQ/GEx-PjETgOMzBUdNCfaMl-HLfBi4tkOHwCEwYBhgL/s1600/AjaxLoader.gif) no-repeat center center
 }
